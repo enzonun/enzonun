@@ -1,8 +1,8 @@
-##👋
+#👋
 
 Current tech stacks I work with
 
-[![My Skills](https://skillicons.dev/icons?i=net,js,ts,vue,mongodb,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,cs,js,ts,vue,mongodb,azure)](https://skillicons.dev)
 
 Tech stacks I worked in
 
