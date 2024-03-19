@@ -8,7 +8,6 @@ Tech stacks I worked in
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,postgres,mongodb,androidstudio)](https://skillicons.dev)
 
-Tools I use for develop
-
+Tools I like use for work
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,git,vscode,vim)](https://skillicons.dev)
  
