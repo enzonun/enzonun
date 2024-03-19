@@ -10,5 +10,5 @@ Tech stacks I worked in
 
 Tools I use for develop
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,git,vscode,vim)](https://skillicons.dev)
  
