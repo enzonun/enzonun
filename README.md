@@ -6,8 +6,9 @@ Current tech stacks I work with
 
 Tech stacks I worked in
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,postgres,mongodb,androidstudio)](https://skillicons.dev)
 
 Tools I use for develop
-[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,dbeaver)](https://skillicons.dev)
  
